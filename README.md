@@ -2,13 +2,6 @@
   Homem-Aranha no Multiverso
 </h1>
 
-<p align="center">
-  <a href="https://spiderverso.netlify.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">📝 License</a>
-</p>
-
 ## 💻 Projeto
 
 Criando um site com HTML + CSS + JavaScript sobre o multiverso dos filmes do Homem Aranha
